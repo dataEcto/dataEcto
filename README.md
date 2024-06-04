@@ -1,4 +1,8 @@
-## Hi there 👋
+## Why hello there!
+
+My name is Genric Elazegui. This is my GitHub page with various mini-personal projects/college assignments. I enjoy programming gameplay mechanics and putting new twists on them to enhance the player experience, such as repurposing a health bar to work as a progress bar. 
+
+🔭 I’m currently working on: A Top Down Stealth Game created with the help of Top Down Engine, injecting my own code to make it more of my own work.
 
 <!--
 **dataEcto/dataEcto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
